@@ -1,0 +1,7 @@
+—Microcontrôleur : Carte Arduino Uno.
+— Capteurs : Capteurs infrarouges (suivi de ligne).
+— Moteurs : Moteurs à courant continu.
+— Roues et châssis pour le robot.
+— Driver de moteur : L298N.
+— Câbles de connexion et borniers.
+— Source d’alimentation (batterie 9V).
