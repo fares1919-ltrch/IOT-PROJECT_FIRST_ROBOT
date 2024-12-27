@@ -1,4 +1,3 @@
-```markdown
 # Introduction
 
 Les robots suiveurs de ligne sont largement utilisés pour démontrer des principes fondamentaux en robotique et en contrôle automatique. Ce projet explore l’intégration de la connectivité IoT pour ajouter des fonctionnalités avancées telles que le monitoring à distance et la collecte de données. L’objectif principal est de construire un robot simple, économique et efficace.
@@ -84,4 +83,3 @@ Le développement a été réalisé avec l’IDE Arduino, utilisant des capteurs
 
 - Intégration de capteurs plus précis pour améliorer la détection de la ligne, notamment dans des conditions difficiles.
 - Ajout de fonctionnalités avancées telles que la gestion des obstacles en temps réel ou des algorithmes de contrôle plus sophistiqués.
-```
